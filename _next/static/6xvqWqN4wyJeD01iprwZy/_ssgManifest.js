@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[offer]","\u002Ffr\u002F[offer]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

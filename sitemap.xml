@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://ai.amanadigitalusa.com/fr/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/" />
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/" />
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/fr/ia/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/ia/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/ia/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/ia/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/ia/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/ia/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/fr/ado/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/ado/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/ado/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/ado/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/ado/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/ado/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/fr/atelier/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/atelier/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/atelier/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/atelier/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/atelier/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/atelier/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/fr/formation/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/formation/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/formation/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ai.amanadigitalusa.com/formation/</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://ai.amanadigitalusa.com/fr/formation/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ai.amanadigitalusa.com/formation/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+</urlset>
